@@ -1,2 +1,3 @@
 # my_certificates
-here are all my certificates
+Здесь лежат мои сертификаты.  
+VMEdu - ведущая глобальная образовательная платформа.
